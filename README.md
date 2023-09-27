@@ -2,9 +2,9 @@
 Keywords: Python, Clustering, Classification, Hypothesis Testing
 
 ### Three main methods to predict which comedians the users may like:
-1. Vectorize comedians and users and use machine learning for prediction.
-2. Practice classic CF.
-3. Vectorize nodes in graphs and use machine learning for prediction.
+1. Vectorize comedians and users and use machine learning for prediction
+2. Practice classic CF
+3. Vectorize nodes in graphs and use machine learning for prediction
 
 
 ### Key Findings

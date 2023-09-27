@@ -1,5 +1,11 @@
 # NLP-based recommender system for stand-up comedians
-Keywords: Python, Clustering, Classification, Hypothesis Testing
+<div id="header" align="left">
+  <ul>
+      <li>Recommend a stand-up comedian from given look-alike comedians based on scripts content with Machine Learning</li>
+      <li>Keywords: Python, Clustering, Classification, Hypothesis Testing</li>
+  </ul>
+</div>
+
 
 ### Three main methods to predict which comedians the users may like:
 1. Vectorize comedians and users and use machine learning for prediction

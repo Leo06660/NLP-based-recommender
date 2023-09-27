@@ -1,5 +1,5 @@
 # NLP-based recommender system for stand-up comedians
-This is the course project in ISE540.
+Keywords: Python, Clustering, Classification, Hypothesis Testing
 
 ### Three main methods to predict which comedians the users may like:
 1. Vectorize comedians and users and use machine learning for prediction.
